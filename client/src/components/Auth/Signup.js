@@ -39,7 +39,7 @@ function Signup() {
     <div className="h-screen bg-dark flex justify-center items-center">
       <div className="bg-white p-5 rounded w-[550px]">
         <h1 className="text-primary text-center">
-          MarketHub - <span className="text-gray-500 ">Register</span>
+          HamroStore - <span className="text-gray-500 ">Register</span>
         </h1>
         <p className="text-center">
           Register here and sell your product for free.
