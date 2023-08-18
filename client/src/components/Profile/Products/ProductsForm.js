@@ -132,6 +132,7 @@ function ProductsForm({
                       <Option value="books">Books</Option>
                       <Option value="sports">Sports</Option>
                       <Option value="snekers">Snekers</Option>
+                      <Option value="pets">Pets</Option>
                     </Select>
                   </Form.Item>
                 </Col>
